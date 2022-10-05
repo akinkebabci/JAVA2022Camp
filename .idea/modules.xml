@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/java2022Camp.iml" filepath="$PROJECT_DIR$/java2022Camp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oop1_/oop1_.iml" filepath="$PROJECT_DIR$/oop1_/oop1_.iml" />
+      <module fileurl="file://$PROJECT_DIR$/oopWithNLayeredApp/oopWithNLayeredApp.iml" filepath="$PROJECT_DIR$/oopWithNLayeredApp/oopWithNLayeredApp.iml" />
     </modules>
   </component>
 </project>

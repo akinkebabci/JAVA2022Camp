@@ -49,5 +49,6 @@ public class Main {
         corporateCustomer.setPhoneNumber("555588855522");
 
         Customer[] customers = {individualCustomer,corporateCustomer};
+
     }
 }
