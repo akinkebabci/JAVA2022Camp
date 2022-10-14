@@ -1,6 +1,8 @@
+import java.util.Arrays;
+
 public class Main {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, World!");
+       /* System.out.println("Hello, World!");
         String ortaMetin = "İlginizi çekebilir";
         String altMetin = "Vade süresi";
         System.out.println(ortaMetin);
@@ -28,6 +30,12 @@ public class Main {
         String[] krediler = {"Hızlı Kredi", "Maaşını Halkbanktan", "Mutlu Emekli"};
         for (int i = 0; i < krediler.length; i++) {
             System.out.println(krediler[i]);
-        }
+        }*/
+
+
+        String[] array = new String[]{"akın","Kebabcı","akın"};
+        long total = Arrays.stream(array).distinct().count();
+        int sayac = 0;
+        System.out.println(total);
     }
 }
